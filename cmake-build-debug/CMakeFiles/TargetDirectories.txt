@@ -1,0 +1,3 @@
+/Users/alfonsovegavilladiego/TRABAJOSPOO/SueldosPOO/cmake-build-debug/CMakeFiles/SueldosPOO.dir
+/Users/alfonsovegavilladiego/TRABAJOSPOO/SueldosPOO/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alfonsovegavilladiego/TRABAJOSPOO/SueldosPOO/cmake-build-debug/CMakeFiles/rebuild_cache.dir

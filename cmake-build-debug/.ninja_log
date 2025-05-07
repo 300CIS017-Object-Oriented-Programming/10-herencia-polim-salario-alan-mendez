@@ -1,0 +1,11 @@
+# ninja log v6
+1	73	1746585596854655043	build.ninja	d206f0257eae8d65
+1	69	1746585596854655043	build.ninja	d206f0257eae8d65
+1	579	1746585596863390301	CMakeFiles/SueldosPOO.dir/DesarrolladorSenior.cpp.o	ebcf1baa9c5a7dda
+0	583	1746585596863163806	CMakeFiles/SueldosPOO.dir/Empleado.cpp.o	6f32c259884c0e4
+1	584	1746585596863490549	CMakeFiles/SueldosPOO.dir/LiderTecnico.cpp.o	545a0a3a4bf5379b
+1	584	1746585596863592505	CMakeFiles/SueldosPOO.dir/Tester.cpp.o	8056ff9ed1ab8a34
+1	585	1746585596863282720	CMakeFiles/SueldosPOO.dir/DesarrolladorJunior.cpp.o	68017169d0ba4ea0
+0	696	1746585596862979894	CMakeFiles/SueldosPOO.dir/main.cpp.o	665b9da6fb7f2357
+582	859	1746585597444969560	CMakeFiles/SueldosPOO.dir/SistemaNomina.cpp.o	12e4f3d419c1e805
+6	405	1746585688594925181	CMakeFiles/SueldosPOO.dir/DesarrolladorSenior.cpp.o	ebcf1baa9c5a7dda
