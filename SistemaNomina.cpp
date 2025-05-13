@@ -50,5 +50,3 @@ void SistemaNomina::inicializarDatos() {
     agregarEmpleado(new Tester("Sofia Castro", 2500));
     agregarEmpleado(new Tester("Diego Torres", 2700));
 }
-    agregarEmpleado(new Tester("Diego Torres", 2700));
-}
